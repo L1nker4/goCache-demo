@@ -1,4 +1,4 @@
-package goCache_demo
+package gocache
 
 // ByteView 表示缓存值
 type ByteView struct {

@@ -1,4 +1,4 @@
-package goCache_demo
+package gocache
 
 import (
 	"fmt"

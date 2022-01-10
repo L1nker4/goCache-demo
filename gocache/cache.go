@@ -1,7 +1,7 @@
-package goCache_demo
+package gocache
 
 import (
-	"goCache-demo/lru"
+	"gocache/lru"
 	"sync"
 )
 
